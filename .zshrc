@@ -33,9 +33,6 @@ plugins=(git cake redis-cli)
 
 source $ZSH/oh-my-zsh.sh
 
-# Customize to your needs...
-export PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin
-
 . ~/.bin/zsh/env.sh
 . ~/.bin/zsh/config.sh
 . ~/.bin/zsh/aliases.sh
