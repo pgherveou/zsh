@@ -1,10 +1,4 @@
 zsh
 ===
 
-zsh basic config
-
-```
-# install https://github.com/robbyrussell/oh-my-zsh
-cd ~
-git clone git@github.com:pgherveou/zsh.git
-```
+zsh basic config, clone toyour user directory and customize to your need
